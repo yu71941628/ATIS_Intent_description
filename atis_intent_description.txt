@@ -1,5 +1,5 @@
 atis_distance: distance from one place to another place
-atis_flight_time: departure or arrival times of flight
+atis_flight_time: departure or arrival time of flight
 atis_city: name or location of cities
 atis_capacity: seating capacity or max number of seats on an airplane or aircraft
 atis_restriction: restrictions or rules of a flight
