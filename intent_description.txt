@@ -1,0 +1,18 @@
+atis_distance: distance from one place to another place.
+atis_flight_time: departure or arrival time of flight.
+atis_city: name or location of cities.
+atis_capacity: seating capacity or max number of seats on an airplane or aircraft.
+atis_restriction: restrictions or rules of a flight.
+atis_airfare: air ticket price or cost.
+atis_aircraft: type of airplane or aircraft.
+atis_ground_fare: the cost to commute on ground, such as limousine, taxi or rent a car.
+atis_meal: meal or food information on aircraft.
+atis_flight_no: flight number.
+atis_day_name: day of the week.
+atis_airline: company that provides air transport services for traveling passengers and freight.
+atis_flight: flight information, such as departure, arrival time, price and flight number etc.
+atis_airport: airport information, such as name or location.
+atis_abbreviation: abbreviation of fare code, restriction code, airport etc.
+atis_quantity: the amount of flights.
+atis_cheapest: cheapest price of flight.
+atis_ground_service: airport service on ground, such as ground transportation, rental car, limousines and taxi.
